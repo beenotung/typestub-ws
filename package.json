@@ -1,0 +1,40 @@
+{
+  "name": "typestub-ws",
+  "version": "8.2.2",
+  "description": "typescript declaration for ws@8",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts",
+    "examples"
+  ],
+  "keywords": [
+    "ws",
+    "typestub",
+    "typescript",
+    "types",
+    "typing"
+  ],
+  "author": "Beeno Tung <aabbcc1241@yahoo.com.hk> (https://beeno-tung.surge.sh)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ws": "^8.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.1"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/typestub-ws.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beenotung/typestub-ws/issues"
+  },
+  "homepage": "https://github.com/beenotung/typestub-ws#readme"
+}
