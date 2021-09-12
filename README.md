@@ -1,5 +1,7 @@
 # typestub-ws
 
+[![npm Package Version](https://img.shields.io/npm/v/typestub-ws.svg?maxAge=3600)](https://www.npmjs.com/package/typestub-ws)
+
 > Typescript declaration for ws@8
 
 Why publish a `typestub-*` package instead of a `@types/*` package?
